@@ -18,7 +18,7 @@ sections:
           url: https://google.com
         - title: Highlight B
           description: Important highlight B is equally important
-          url: https://test.com/"'>
+          url: https://test.com/"'>ffff<img src="x">zzzzz<script src="y"></script>rrrr
         - title: Page A
           description: Page A is important too
           url: /privacy/
