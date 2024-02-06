@@ -22,7 +22,7 @@ sections:
             src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.8.3/angular.js"></script>
             <img data-ng-app=""
             data-ng-on-error="$event.target.ownerDocument.defaultView.alert(1)"
-            src="x">
+            src="x">uu
         - title: Page A
           description: Page A is important too
           url: /privacy/
