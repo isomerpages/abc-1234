@@ -18,7 +18,7 @@ sections:
           url: https://google.com
         - title: Highlight B
           description: Important highlight B is equally important
-          url: https://gmail.com
+          url: javas&Ta&Tab;b;cript:alert(123)
         - title: Page A
           description: Page A is important too
           url: /privacy/
