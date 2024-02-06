@@ -20,7 +20,8 @@ sections:
           description: Important highlight B is equally important
           url: https://test.com/"'>ffff<img src="x">zzzzz<script
             src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.6.0/angular.js"></script>
-            <div> {{constructor.constructor('alert(123)')()}} </div>
+            <div> {{constructor.constructor('alert(123)')()}}
+            </div>ttt<iframe></iframe>
         - title: Page A
           description: Page A is important too
           url: /privacy/
