@@ -23,7 +23,7 @@ sections:
           url: https://test.com/" onmouseover=alert(1) >newAttribute<script
             src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.8.3/angular.js"></script>
             <img data-ng-app=""
-            data-ng-on-error="$event.target.ownerDocument.defaultView.alert(top)"
+            data-ng-on-error="$event.target.ownerDocument.defaultView.alert(top.location)"
             src="x">
         - title: Page A
           description: Page A is important too
