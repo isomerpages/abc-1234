@@ -4,7 +4,7 @@ permalink: /example-folder/example-subfolder/subfolder-page/
 third_nav_title: Example Subfolder
 variant: markdown
 ---
-ttt    
+ttt    $$ 5 +5 $$
 tttttt
 ```
 $$
