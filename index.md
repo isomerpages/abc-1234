@@ -13,10 +13,11 @@ sections:
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - abcd: abcd
+        - abcdef: "abcd\n\r\n\rtesttest"
+          abcd: abcd
           title: Highlight A
           description: Important highlight A is important
-          url: https://google.com/tt
+          url: https://google.com/ttt
         - title: Highlight B
           description: Important highlight B is equally important
           url: https://test.com/"'>payload123<script
