@@ -1,0 +1,4 @@
+collections:
+  hello123:
+    output: true
+    order: []
