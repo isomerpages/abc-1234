@@ -2,4 +2,5 @@ collections:
   plugins:
     output: true
     order:
+      - aaaaaaaaaaa.md
       - test.md
