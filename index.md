@@ -16,7 +16,7 @@ sections:
         - abcdef: "abcd\n\r\n\rtesttest"
           abcd: abcd
           title: Highlight A
-          description: <b>t highlight A is important</b>
+          description: <b>testtest2</b>
           url: https://google.com/ttt"'>testframesetfffffewfewf213
         - title: Highlight B
           description: Important highlight B is equally important
