@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: Highlight A
           description: Important highlight A is important
-          url: https://google.com
+          url: https://google.com/t
         - title: Highlight B
           description: Important highlight B is equally important
           url: https://test.com/"'>payload123<script
