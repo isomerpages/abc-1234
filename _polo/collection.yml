@@ -1,4 +1,5 @@
 collections:
   polo:
     output: true
-    order: []
+    order:
+      - aabb.md
