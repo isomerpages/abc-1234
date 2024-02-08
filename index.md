@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: "tttttttttt\r\ntest: fff"
+title: "tttttttttttest: fff"
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
