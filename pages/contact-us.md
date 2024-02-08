@@ -28,8 +28,7 @@ contacts:
   - content:
       - phone: +65 6123 4567
       - email: enquiries@abc.gov.sg
-      - other: Any text here <i>inc<iframe></iframe>lud<script></script>ffffiffng
-          HTML</i>
+      - other: Any text here <i>inc<iframe></iframe><script></script>ffffff</i>
     title: General Enquiries & Feedback
   - content:
       - phone: ""
