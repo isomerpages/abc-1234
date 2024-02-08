@@ -15,7 +15,7 @@ locations:
       - days: Sat
         time: 8.30am - 12.00pm
         description: ""
-    maps_link: javas&Tab;cript:alert(6666)
+    maps_link: javasc	ript&colon;alert(99999)
     title: Main Office
   - address:
       - 109 North Bridge Road
