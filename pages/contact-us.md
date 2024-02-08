@@ -15,7 +15,7 @@ locations:
       - days: Sat
         time: 8.30am - 12.00pm
         description: ""
-    maps_link: ""
+    maps_link: https://cure53.de/abcd
     title: Main Office
   - address:
       - 109 North Bridge Road
@@ -35,5 +35,5 @@ contacts:
       - email: careers@abc.gov.sg
       - other: ""
     title: Careers
-feedback: javas	cript:alert(123)
+feedback: javascript:alert(123)
 ---
