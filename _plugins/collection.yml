@@ -2,6 +2,6 @@ collections:
   plugins:
     output: true
     order:
-      - rrrrrrrrr.md
       - aaaaaaaaaaa.md
+      - rrrrrrrrr.md
       - test.md
