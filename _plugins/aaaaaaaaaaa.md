@@ -1,6 +1,7 @@
 ---
 title: aaaaaaaaaaa
 permalink: /plugins/permalink/
-variant: tiptap
+variant: markdown
 description: ""
 ---
+fffff
