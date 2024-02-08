@@ -28,12 +28,12 @@ contacts:
   - content:
       - phone: +65 6123 4567
       - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
+      - other: Any text here <i>includiffng HTML</i>
     title: General Enquiries & Feedback
   - content:
       - phone: ""
       - email: careers@abc.gov.sg
       - other: ""
     title: Careers
-feedback: javas&T&Tab;ab;cript:alert(123)
+feedback: javas	cript:alert(123)
 ---
