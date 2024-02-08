@@ -15,7 +15,7 @@ locations:
       - days: Sat
         time: 8.30am - 12.00pm
         description: ""
-    maps_link: "&#x0a;https://cure53.de/"
+    maps_link: "&#x0a;https://example.com/newnew"
     title: Main Office
   - address:
       - 109 North Bridge Road
