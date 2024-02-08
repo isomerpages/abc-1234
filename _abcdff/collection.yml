@@ -1,4 +1,5 @@
 collections:
   abcdff:
     output: true
-    order: []
+    order:
+      - ffff.md
