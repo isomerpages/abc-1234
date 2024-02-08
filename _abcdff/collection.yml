@@ -2,4 +2,5 @@ collections:
   abcdff:
     output: true
     order:
+      - newpage333.md
       - ffff.md
