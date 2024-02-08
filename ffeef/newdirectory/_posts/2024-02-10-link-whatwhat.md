@@ -1,0 +1,9 @@
+---
+title: whatwhat
+date: 2024-02-08
+layout: link
+description: ""
+image: ""
+variant: tiptap
+external: https://cure53.de
+---

@@ -1,0 +1,5 @@
+collections:
+  polo:
+    output: true
+    order:
+      - aabb.md

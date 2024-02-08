@@ -1,5 +1,5 @@
-title: Title
-url: ""
+title: "tttttttttttest: fff"
+url: https://test.com
 favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#6031b6"
@@ -53,3 +53,7 @@ staging: https://staging-lite.d2z6ar8eollfsu.amplifyapp.com
 prod: https://master.d3lm7ksvtvt9eg.amplifyapp.com
 facebook-pixel: ""
 resources_name: ffeef
+shareicon: /images/isomer-logo.svg
+is_government: false
+google_analytics_ga4: ""
+linkedin-insights: ""
