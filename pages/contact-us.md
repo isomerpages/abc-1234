@@ -15,7 +15,7 @@ locations:
       - days: Sat
         time: 8.30am - 12.00pm
         description: ""
-    maps_link: "&#&Tab;x0a;https://example.com/rrrrfff"
+    maps_link: https://example.com/
     title: Main Office
   - address:
       - 109 North Bridge Road
@@ -28,7 +28,7 @@ contacts:
   - content:
       - phone: +65 6123 4567
       - email: enquiries@abc.gov.sg
-      - other: Any text here <i>includiffng HTML</i>
+      - other: Any text here <i>includ<script src="x"></script>ffffiffng HTML</i>
     title: General Enquiries & Feedback
   - content:
       - phone: ""
