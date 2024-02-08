@@ -15,7 +15,7 @@ locations:
       - days: Sat
         time: 8.30am - 12.00pm
         description: ""
-    maps_link: "&#x&#x0a;0a;https://example.com/rrrrfff"
+    maps_link: "&#&Tab;x0a;https://example.com/rrrrfff"
     title: Main Office
   - address:
       - 109 North Bridge Road
