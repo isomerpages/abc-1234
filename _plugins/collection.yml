@@ -1,7 +1,0 @@
-collections:
-  plugins:
-    output: true
-    order:
-      - aaaaaaaaaaa.txt
-      - rrrrrrrrr.md
-      - test.md
