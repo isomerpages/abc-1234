@@ -28,7 +28,8 @@ contacts:
   - content:
       - phone: +65 6123 4567
       - email: enquiries@abc.gov.sg
-      - other: abcd<script src="xxxxxxx"></script>zzz
+      - other: abcd<svg><script src="xxxxxxx"></script><script href="zzzzzz"
+          src="yyyyy"></script></svg>
     title: ask <s>fff</s>
   - content:
       - phone: ""
