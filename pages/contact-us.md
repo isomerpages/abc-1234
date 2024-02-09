@@ -28,7 +28,7 @@ contacts:
   - content:
       - phone: +65 6123 4567
       - email: enquiries@abc.gov.sg
-      - other: abcd<svg></svg>
+      - other: abcd<iframe></iframe>zzz<iframe src="https://cure53.de/"></iframe>abcd
     title: ask <s>fff</s>
   - content:
       - phone: ""
