@@ -17,7 +17,7 @@ sections:
           abcd: abcd
           title: Highlight A
           description:
-            - <b>ffff</b>test3333333
+            - - zzzzzzzzzz<img src="x">zzzz
           url: https://google.com/ttt"'>testframesetfffffewfewf213
         - title: Highlight B
           description: <script
