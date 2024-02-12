@@ -17,8 +17,8 @@ sections:
           abcd: abcd
           title: Highlight A
           description:
-            test:
-              - ffff
+            te<embed/>st:
+              - test
           url: https://google.com/ttt"'>testframesetfffffewfewf213
         - title: Highlight B
           description: <script
