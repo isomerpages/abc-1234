@@ -17,7 +17,7 @@ sections:
           abcd: abcd
           title: Highlight A
           description:
-            <embed>src: fffff
+            <iframe srcdoc='aaaa'></iframe><embed src='x'/>ffffffsrc: fffff
           url: https://google.com/ttt"'>testframesetfffffewfewf213
         - title: Highlight B
           description: <script
