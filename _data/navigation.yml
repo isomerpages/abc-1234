@@ -4,5 +4,7 @@ links:
     url: /contact-us/
   - title: Example Page
     url: /example-page/
-  - title: Example Folder
+  - title: <s>Ffff</s>
     collection: example-folder
+  - title: New folder
+    collection: abcdff
